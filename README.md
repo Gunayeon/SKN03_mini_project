@@ -1,2 +1,15 @@
-# SKN_mini_project
-sk networks family ai camp에서 진행했던 미니 프로젝트 입니다.
+# 🚀 Mini Projects from SKN
+
+이 리포지토리는 부트캠프 기간 동안 진행한 4개의 미니 프로젝트를 모아둔 공간입니다.<br>
+각 프로젝트는 다양한 기술과 도구를 활용하여 실습한 결과물로 주로 웹 개발, 데이터 분석, LLM 등을 다루었습니다.
+
+<br><br>
+## 📚 프로젝트 목차
+> 1. 1st project : **전국 자동차 등록 현황 및 기업 FAQ 조회 시스템**
+> 2. 2nd project : **제주도 관광 트렌트 시각화 시스템**  
+> 3. 3rd project : **고객 이탈 분석 및 예측 시스템**  
+> 4. 4th project : **랭체인 활용 광고문구 생성 프로그램**
+
+<br><br>
+
+
