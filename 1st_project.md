@@ -45,6 +45,13 @@
 <br> 
 
 #### 📚 프로젝트 결과
+
+| 기업 FAQ | 전국 자동차 분포 현황 | 
+|--|--|
+| ![image](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN03-1st-4Team/blob/main/image-10.png) | ![image](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN03-1st-4Team/blob/main/image-11.png) |
+| 전국 자동차 등록 개수 | 차량 별 등록 현황 |
+| ![image](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN03-1st-4Team/blob/main/image-11.png) | ![image](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN03-1st-4Team/blob/main/image-13.png)
+
 <br>
 
 #### 🎯 프로젝트 주요 가치 및 활용점
