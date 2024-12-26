@@ -57,16 +57,19 @@ aws를 이용해 배포를 진행하였으며 공공 데이터를 기반으로 �
 
 #### 📚 프로젝트 결과
 
-| 기업 FAQ | 전국 자동차 분포 현황 | 
+| 제주 관광 키워드 | 제주도 방문객 | 
 |--|--|
-| ![image](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN03-1st-4Team/blob/main/image-10.png) | ![image](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN03-1st-4Team/blob/main/image-11.png) |
-| 전국 자동차 등록 개수 | 차량 별 등록 현황 |
-| ![image](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN03-1st-4Team/blob/main/image-11.png) | ![image](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN03-1st-4Team/blob/main/image-13.png)
+| ![image](https://github.com/Gunayeon/SKN_mini_project/blob/main/img/keyword.png) | ![image](https://github.com/Gunayeon/SKN_mini_project/blob/main/img/visitor.png) |
+| 제주 지역 | 지역별 관광정보 |
+| ![image](https://github.com/Gunayeon/SKN_mini_project/blob/main/img/region.png) | ![image](https://github.com/Gunayeon/SKN_mini_project/blob/main/img/region_detail.png)
+| 지역 & 기간별 날씨 | 업종별 소비현황 |
+| ![image](https://github.com/Gunayeon/SKN_mini_project/blob/main/img/weather.png) | ![image](https://github.com/Gunayeon/SKN_mini_project/blob/main/img/consume.png)
 
 <br>
 
 #### 🎯 프로젝트 주요 가치 및 활용점
 > 이 시스템은 제주도의 관광 데이터를 효과적으로 분석하고 시각화하여, 정부, 기업, 관광업 종사자, 관광객 등 다양한 이해관계자들에게 유용한 정보를 제공하고,
 특히 실시간 날씨 정보, 방문객 정보, 지역별 매출액 데이터 등을 결합하여 사용자들에게 보다 편리하고 통찰력 있는 여행 및 비즈니스 계획을 지원한다는 점에서 의의가 있음<br><br>
-> 개인적으로, 지난 프로젝트에 비해 다양한 기술 파이썬 장고, AWS 배포, API 활용 등의 기술을 실무적으로 다루며, 데이터 분석 및 웹 개발 능력을 한층 강화할 수 았게 됨.<br>
+> 개인적으로, 지난 프로젝트에 비해 다양한 기술 파이썬 장고, AWS 배포, API 활용 등의 기술을 실무적으로 다루며, 데이터 분석 및 웹 개발 능력을 한층 강화할 수 았게 됨.<br><br>
+> 다만 데이터 수집 부분과 팀워크 다 좋았으나 당시 웹 UI에 대한 이해가 좀 더 있었더라면 기존의 데이터를 활용하여 사용자가 좀 더 이해하기 쉽게 시각화를 더 잘 할 수 있었을 텐데라는 아쉬움이 있었음
 
